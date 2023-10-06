@@ -1,0 +1,16 @@
+h1{
+    color: aquamarine; /* comentário da cor*/
+    font-size: 52px; /* tamanho da letra*/
+    text-align: center; /* Deixar o seletor centralizado*/
+}
+h2{
+    color: brown;
+    font: 42px;
+}
+h3{
+    color: blueviolet;
+}
+p{
+    color: cornflowerblue;
+    text-align: center;
+}

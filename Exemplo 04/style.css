@@ -1,0 +1,44 @@
+h1 , p{
+    color: white;
+    text-align: left;
+    font-size: 42px;
+}
+
+#Primeiro{
+    color: green;
+    text-align: center;
+    font-size: 50px;
+}
+#Segundo{
+    color:darkorchid;
+    text-align: center;
+    font-size: 42px;
+}
+#Terceiro{
+    color: brown;
+    font-size: 42px;
+}
+#Quarto{
+    color: red;
+    font: 42px;
+}
+#Quinto{
+    font-size: 42px;
+    color: black;
+}
+
+#Quadrado {
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+}
+
+.basico{
+    width: 40px;
+    height: 40px;
+    background-color: blue;
+}
+
+#oi{
+    color: red;
+}
